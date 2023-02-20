@@ -1,0 +1,42 @@
+.form1{
+    border:2px solid black;
+    width:30%;
+    height:80px;
+    background-color:darkkhaki;
+}
+
+.form2{
+    border:2px solid black;
+    width:30%;
+    height:80px;
+    background-color:pink;
+}
+
+.form3{
+    border:2px solid black;
+    width:30%;
+    height:80px;
+    background-color:indianred;
+
+}
+
+.form4{
+    border:2px solid black;
+    width:30%;
+    height:80px;
+    background-color:mediumpurple;
+}
+
+.form5{
+    border:2px solid black;
+    width:30%;
+    height:80px;
+    background-color:powderblue;
+}
+
+.form6{
+    border:2px solid black;
+    width:30%;
+    height:80px;
+    background-color:salmon;
+}
